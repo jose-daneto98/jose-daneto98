@@ -3,7 +3,8 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,py,django,flask,selenium,mysql,js,html,css,dart,flutter" />
   </a>
-</p>- 👋 Hi, I’m @jose-daneto98
+</p>
+- 👋 Hi, I’m @jose-daneto98
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
