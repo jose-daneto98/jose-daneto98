@@ -1,12 +1,7 @@
-Trabalho com:
+Tech
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,py,django,flask,selenium,vscode,html,css,dart,flutter" />
-  </a>
-  <p align="center">
-  Quero me aprofundar ainda mais em:
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js," />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,py,django,flask,selenium,mysql,js,html,css,dart,flutter" />
   </a>
 </p>- 👋 Hi, I’m @jose-daneto98
 - 👀 I’m interested in ...
