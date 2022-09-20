@@ -1,6 +1,12 @@
+Trabalho com:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,github,py,django,flask,selenium,vscode,html,css,dart,flutter" />
+  </a>
+  <p align="center">
+  Quero me aprofundar ainda mais em:
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js," />
   </a>
 </p>- 👋 Hi, I’m @jose-daneto98
 - 👀 I’m interested in ...
